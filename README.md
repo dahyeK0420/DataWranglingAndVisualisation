@@ -8,7 +8,7 @@ To answer these questions, the upcoming visualisation compares and contrasts the
 
 ## Design Process – Five Design Sheet 
 
-**``Dahye_Kim_ProjectIntroAndDesign.pdf``**
+**``Dahye_Kim_ProjectDesign.pdf``**
 
 The key to this visualisation project is to enable users to directly catch the difference in food group/ nutrition consumption of children from the U.S and other comparing groups, as well as to explore the relationship between the child obesity rate in the U.S and different socioeconomic variables. To do so, I divided all the possible visualisation graphics into three major visualisation categories:
 
