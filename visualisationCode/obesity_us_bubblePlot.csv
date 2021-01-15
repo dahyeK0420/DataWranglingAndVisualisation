@@ -1,0 +1,205 @@
+"State","Median.Household.Income","Child.Adolescent.Obesity.Rate","Region","Race","Race.Distribution"
+"Alabama",43900.09,15.73,"South","Asian",1
+"Alabama",43900.09,15.73,"South","Hispanic",3.8
+"Alabama",43900.09,15.73,"South","Black",26.1
+"Alabama",43900.09,15.73,"South","White",66.9
+"Alaska",65436.27,15.43,"West","Asian",5.8
+"Alaska",65436.27,15.43,"West","Black",3.1
+"Alaska",65436.27,15.43,"West","Hispanic",6.3
+"Alaska",65436.27,15.43,"West","White",63
+"Arizona",51246,12.47,"West","Black",3.9
+"Arizona",51246,12.47,"West","Hispanic",30.4
+"Arizona",51246,12.47,"West","White",56.7
+"Arizona",51246,12.47,"West","Asian",2.9
+"Arkansas",42423,15.76,"South","Black",15.1
+"Arkansas",42423,15.76,"South","White",74.1
+"Arkansas",42423,15.76,"South","Asian",1.1
+"Arkansas",42423,15.76,"South","Hispanic",6.8
+"California",60110.64,16.31,"West","Black",5.6
+"California",60110.64,16.31,"West","Asian",13.3
+"California",60110.64,16.31,"West","Hispanic",38.3
+"California",60110.64,16.31,"West","White",39.2
+"Colorado",62674.73,8.68,"West","Hispanic",20.9
+"Colorado",62674.73,8.68,"West","Asian",3
+"Colorado",62674.73,8.68,"West","White",69.6
+"Colorado",62674.73,8.68,"West","Black",3.9
+"Connecticut",67480.82,13.45,"Northeast","Black",9.5
+"Connecticut",67480.82,13.45,"Northeast","Hispanic",14.3
+"Connecticut",67480.82,13.45,"Northeast","White",70.1
+"Connecticut",67480.82,13.45,"Northeast","Asian",3.9
+"Delaware",55750,15.26,"South","Hispanic",8.4
+"Delaware",55750,15.26,"South","White",64.9
+"Delaware",55750,15.26,"South","Asian",3.5
+"Delaware",55750,15.26,"South","Black",20.7
+"Florida",47723.55,12.25,"South","Hispanic",23.6
+"Florida",47723.55,12.25,"South","White",56.7
+"Florida",47723.55,12.25,"South","Asian",2.6
+"Florida",47723.55,12.25,"South","Black",15
+"Georgia",50083.55,13.49,"South","Asian",3.5
+"Georgia",50083.55,13.49,"South","Black",30.2
+"Georgia",50083.55,13.49,"South","Hispanic",8.9
+"Georgia",50083.55,13.49,"South","White",55.2
+"Hawaii",65678.36,12.46,"West","Asian",38
+"Hawaii",65678.36,12.46,"West","White",22.2
+"Hawaii",65678.36,12.46,"West","Black",1.4
+"Hawaii",65678.36,12.46,"West","Hispanic",9.4
+"Idaho",51176,10.51,"West","Black",1
+"Idaho",51176,10.51,"West","Asian",1.1
+"Idaho",51176,10.51,"West","White",83.6
+"Idaho",51176,10.51,"West","Hispanic",11.5
+"Illinois",56061.18,13.71,"Midwest","Black",14
+"Illinois",56061.18,13.71,"Midwest","Hispanic",16.3
+"Illinois",56061.18,13.71,"Midwest","Asian",4.8
+"Illinois",56061.18,13.71,"Midwest","White",62.8
+"Indiana",49756.55,14.29,"Midwest","Black",8.9
+"Indiana",49756.55,14.29,"Midwest","Asian",1.8
+"Indiana",49756.55,14.29,"Midwest","White",81
+"Indiana",49756.55,14.29,"Midwest","Hispanic",6.1
+"Iowa",55208.64,14.22,"Midwest","Hispanic",5.2
+"Iowa",55208.64,14.22,"Midwest","Asian",2.1
+"Iowa",55208.64,14.22,"Midwest","Black",2.9
+"Iowa",55208.64,14.22,"Midwest","White",88.1
+"Kansas",51548.36,12.42,"Midwest","Black",5.3
+"Kansas",51548.36,12.42,"Midwest","Hispanic",11
+"Kansas",51548.36,12.42,"Midwest","White",77.7
+"Kansas",51548.36,12.42,"Midwest","Asian",2.3
+"Kentucky",43106.45,16.84,"South","Hispanic",2.9
+"Kentucky",43106.45,16.84,"South","White",86.3
+"Kentucky",43106.45,16.84,"South","Asian",1
+"Kentucky",43106.45,16.84,"South","Black",7.6
+"Louisiana",41703.91,14.66,"South","Black",31.9
+"Louisiana",41703.91,14.66,"South","Hispanic",4.4
+"Louisiana",41703.91,14.66,"South","White",60.2
+"Louisiana",41703.91,14.66,"South","Asian",1.7
+"Maine",49744.27,13.41,"Northeast","Hispanic",1.2
+"Maine",49744.27,13.41,"Northeast","White",94.2
+"Maine",49744.27,13.41,"Northeast","Asian",1
+"Maine",49744.27,13.41,"Northeast","Black",1.1
+"Maryland",71369,13.68,"South","Asian",5.9
+"Maryland",71369,13.68,"South","Black",28.8
+"Maryland",71369,13.68,"South","Hispanic",8.7
+"Maryland",71369,13.68,"South","White",53.6
+"Massachusetts",65449.91,13.06,"Northeast","Asian",5.7
+"Massachusetts",65449.91,13.06,"Northeast","White",75.1
+"Massachusetts",65449.91,13.06,"Northeast","Black",6.3
+"Massachusetts",65449.91,13.06,"Northeast","Hispanic",10.4
+"Michigan",52189.09,13.51,"Midwest","Black",13.8
+"Michigan",52189.09,13.51,"Midwest","Asian",2.5
+"Michigan",52189.09,13.51,"Midwest","White",76.5
+"Michigan",52189.09,13.51,"Midwest","Hispanic",4.7
+"Minnesota",62995.73,12.77,"Midwest","Black",5.3
+"Minnesota",62995.73,12.77,"Midwest","Hispanic",4.8
+"Minnesota",62995.73,12.77,"Midwest","Asian",4.3
+"Minnesota",62995.73,12.77,"Midwest","White",82.3
+"Mississippi",38358.45,16.19,"South","Black",37.5
+"Mississippi",38358.45,16.19,"South","Asian",1
+"Mississippi",38358.45,16.19,"South","White",57.9
+"Mississippi",38358.45,16.19,"South","Hispanic",2.5
+"Missouri",51327.18,13.97,"Midwest","Hispanic",3.8
+"Missouri",51327.18,13.97,"Midwest","Asian",1.8
+"Missouri",51327.18,13.97,"Midwest","Black",11
+"Missouri",51327.18,13.97,"Midwest","White",80.9
+"Montana",47879.64,10.88,"West","Black",1
+"Montana",47879.64,10.88,"West","Hispanic",3.3
+"Montana",47879.64,10.88,"West","White",87.4
+"Montana",47879.64,10.88,"West","Asian",1
+"Nebraska",55244.91,13.97,"Midwest","Hispanic",9.6
+"Nebraska",55244.91,13.97,"Midwest","White",81.4
+"Nebraska",55244.91,13.97,"Midwest","Asian",2.1
+"Nebraska",55244.91,13.97,"Midwest","Black",4.4
+"Nevada",52672.45,12.45,"West","Black",7.9
+"Nevada",52672.45,12.45,"West","Hispanic",27.6
+"Nevada",52672.45,12.45,"West","White",52.6
+"Nevada",52672.45,12.45,"West","Asian",7.4
+"New Hampshire",69807.64,13.27,"Northeast","Hispanic",3.1
+"New Hampshire",69807.64,13.27,"Northeast","White",91.8
+"New Hampshire",69807.64,13.27,"Northeast","Asian",2.2
+"New Hampshire",69807.64,13.27,"Northeast","Black",1
+"New Jersey",66864.73,13.75,"Northeast","Asian",8.7
+"New Jersey",66864.73,13.75,"Northeast","Black",12.4
+"New Jersey",66864.73,13.75,"Northeast","Hispanic",18.7
+"New Jersey",66864.73,13.75,"Northeast","White",58
+"New Mexico",44293.91,13.32,"West","Asian",1.1
+"New Mexico",44293.91,13.32,"West","White",39.5
+"New Mexico",44293.91,13.32,"West","Black",2
+"New Mexico",44293.91,13.32,"West","Hispanic",47.2
+"New York",54235.64,12.7,"Northeast","Black",14.1
+"New York",54235.64,12.7,"Northeast","Asian",7.7
+"New York",54235.64,12.7,"Northeast","White",57.3
+"New York",54235.64,12.7,"Northeast","Hispanic",18.2
+"North Carolina",46373.82,14.03,"South","Black",21
+"North Carolina",46373.82,14.03,"South","Hispanic",8.6
+"North Carolina",46373.82,14.03,"South","Asian",2.3
+"North Carolina",46373.82,14.03,"South","White",64.8
+"North Dakota",54265.64,13.02,"Midwest","Black",1.7
+"North Dakota",54265.64,13.02,"Midwest","Asian",1.11
+"North Dakota",54265.64,13.02,"Midwest","White",87.5
+"North Dakota",54265.64,13.02,"Midwest","Hispanic",2.3
+"Ohio",50317.27,13.05,"Midwest","Hispanic",3.3
+"Ohio",50317.27,13.05,"Midwest","Asian",2
+"Ohio",50317.27,13.05,"Midwest","Black",11.9
+"Ohio",50317.27,13.05,"Midwest","White",80.8
+"Oklahoma",47030.09,15.05,"South","Black",7
+"Oklahoma",47030.09,15.05,"South","Hispanic",9.4
+"Oklahoma",47030.09,15.05,"South","White",68.1
+"Oklahoma",47030.09,15.05,"South","Asian",2
+"Oregon",55375.73,15.63,"West","Hispanic",12.1
+"Oregon",55375.73,15.63,"West","White",77.8
+"Oregon",55375.73,15.63,"West","Asian",3.9
+"Oregon",55375.73,15.63,"West","Black",2
+"Pennsylvania",54606.18,12.94,"Northeast","Black",10
+"Pennsylvania",54606.18,12.94,"Northeast","Hispanic",6.2
+"Pennsylvania",54606.18,12.94,"Northeast","White",79
+"Pennsylvania",54606.18,12.94,"Northeast","Asian",2.8
+"Rhode Island",56389.73,13.47,"Northeast","Asian",3.1
+"Rhode Island",56389.73,13.47,"Northeast","Black",5.1
+"Rhode Island",56389.73,13.47,"Northeast","Hispanic",13.6
+"Rhode Island",56389.73,13.47,"Northeast","White",75.1
+"South Carolina",46249.09,14.24,"South","Asian",1.2
+"South Carolina",46249.09,14.24,"South","Black",27.4
+"South Carolina",46249.09,14.24,"South","Hispanic",4.9
+"South Carolina",46249.09,14.24,"South","White",64.2
+"South Dakota",51378.09,13.08,"Midwest","White",84.1
+"South Dakota",51378.09,13.08,"Midwest","Asian",1.1
+"South Dakota",51378.09,13.08,"Midwest","Black",1.4
+"South Dakota",51378.09,13.08,"Midwest","Hispanic",3
+"Tennessee",45450.91,16.33,"South","Asian",1.4
+"Tennessee",45450.91,16.33,"South","Black",16.4
+"Tennessee",45450.91,16.33,"South","Hispanic",4.8
+"Tennessee",45450.91,16.33,"South","White",75.3
+"Texas",51438.09,15.61,"South","Asian",4.2
+"Texas",51438.09,15.61,"South","Black",11.2
+"Texas",51438.09,15.61,"South","Hispanic",38.3
+"Texas",51438.09,15.61,"South","White",44.3
+"Utah",62259,8.57,"West","Asian",2
+"Utah",62259,8.57,"West","Black",1
+"Utah",62259,8.57,"West","Hispanic",13.1
+"Utah",62259,8.57,"West","White",79.9
+"Vermont",56648.64,12.45,"Northeast","Asian",1.33
+"Vermont",56648.64,12.45,"Northeast","Black",1
+"Vermont",56648.64,12.45,"Northeast","Hispanic",1.3
+"Vermont",56648.64,12.45,"Northeast","White",94.1
+"Virginia",63633,15.84,"South","Asian",5.9
+"Virginia",63633,15.84,"South","Black",19
+"Virginia",63633,15.84,"South","Hispanic",8.3
+"Virginia",63633,15.84,"South","White",64.1
+"Washington",62807.45,14.39,"West","Asian",7.6
+"Washington",62807.45,14.39,"West","Black",3
+"Washington",62807.45,14.39,"West","Hispanic",11.6
+"Washington",62807.45,14.39,"West","White",71.6
+"West Virginia",42092.55,15.66,"South","Asian",1
+"West Virginia",42092.55,15.66,"South","Black",3.1
+"West Virginia",42092.55,15.66,"South","Hispanic",1
+"West Virginia",42092.55,15.66,"South","White",93.3
+"Wisconsin",54850.73,12.53,"Midwest","Asian",2.4
+"Wisconsin",54850.73,12.53,"Midwest","Black",5.9
+"Wisconsin",54850.73,12.53,"Midwest","Hispanic",6.1
+"Wisconsin",54850.73,12.53,"Midwest","White",83.1
+"Wyoming",54607.36,10.16,"West","Asian",1
+"Wyoming",54607.36,10.16,"West","Black",1
+"Wyoming",54607.36,10.16,"West","Hispanic",9.3
+"Wyoming",54607.36,10.16,"West","White",85.2
+"National",53985.48,13.62,"National","Asian",3.84
+"National",53985.48,13.62,"National","Black",10.04
+"National",53985.48,13.62,"National","White",70.78
+"National",53985.48,13.62,"National","Hispanic",10.99
