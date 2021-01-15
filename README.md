@@ -6,6 +6,10 @@ The motivation for this project is driven by statistics published by the OECD in
 
 To answer these questions, the upcoming visualisation compares and contrasts the food group/nutrition intake of children in the United States to that of children in South Korea, Japan, and Australia. It also compares and contrasts the food group/nutrition intake of children in the U.S based on socioeconomic variables, such as race and income level. This project seeks to understand the child obesity problem in the United States based on children’s diet, as well as raising awareness around the effect of socioeconomic variables on children’s diet and obesity. The main audience of the project are policymakers involved in youth health issues, in this case the Centre for Disease Control and Prevention (CDC), school officials, and parents.
 
+## Shiny App for Interactive Visualisation 
+**``visualisationCode``**
+To active the Shiny App, please download the ``visualisationCode`` folder and run **``visualisationCode.R``** file.
+
 ## Design Process – Five Design Sheet 
 
 **``Dahye_Kim_ProjectDesign.pdf``**
