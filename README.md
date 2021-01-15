@@ -9,6 +9,7 @@ To answer these questions, the upcoming visualisation compares and contrasts the
 ## Shiny App for Interactive Visualisation 
 **``visualisationCode``**
 To active the Shiny App, please download the ``visualisationCode`` folder and run **``visualisationCode.R``** file.
+Please install all the libraries listed before activating the App.
 
 ## Design Process – Five Design Sheet 
 
