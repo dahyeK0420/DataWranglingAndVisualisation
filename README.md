@@ -8,7 +8,7 @@ To answer these questions, the upcoming visualisation compares and contrasts the
 
 ## Design Process – Five Design Sheet 
 
-**Dahye_Kim_ProjectIntroAndDesign.pdf**
+**``Dahye_Kim_ProjectIntroAndDesign.pdf``**
 
 The key to this visualisation project is to enable users to directly catch the difference in food group/ nutrition consumption of children from the U.S and other comparing groups, as well as to explore the relationship between the child obesity rate in the U.S and different socioeconomic variables. To do so, I divided all the possible visualisation graphics into three major visualisation categories:
 
@@ -19,7 +19,9 @@ The key to this visualisation project is to enable users to directly catch the d
 * Visualise the relationship between three continuous variables – child obesity rate, median household income, and distribution rate of different race/ethnicity in each state in the U.S 
   * Bubble plot, side-by-side bar chart, back-to-back bar chart
 
-## US Children Nutrient and Food Group Intake - Data Collecting and Wrangling Process 
+## Children's Nutrient and Food Group Intake - Data Collecting and Wrangling Process 
+
+### Children's nutrient and food group intake - country, gender, ethnicity/race, and income level 
 
 * **US_Nutrient_gender**: nutrition intake breakdown of the population in the U.S based on gender and different age groups.   
 ``US_Nutrient_gender_2005_06.pdf``, ``US_Nutrient_gender_2007_08.pdf``, ``US_Nutrient_gender_2009_10.pdf``, ``US_Nutrient_gender_2011_12.pdf``, ``US_Nutrient_gender_2013_14.pdf``, ``US_Nutrient_gender_2015_16.pdf``, ``US_Nutrient_gender_2017_18.pdf``
@@ -39,7 +41,7 @@ The key to this visualisation project is to enable users to directly catch the d
 * **US_foodGroup_Ethnicity**: food group intake breakdown of the population in the U.S based on income level and different age groups.  
 ``US_foodGroup_raceEthnicity_2005_06.pdf``, ``US_foodGroup_raceEthnicity_2007_08.pdf``, ``US_foodGroup_raceEthnicity_2009_10.pdf``, ``US_foodGroup_raceEthnicity_2011_12.pdf``, ``US_foodGroup_raceEthnicity_2013_14.pdf``, ``US_foodGroup_raceEthnicity_2015_16.pdf``, ``US_foodGroup_raceEthnicity_2017_18.pdf``
 
-## Japanese Children Nutrient and Food Group Intake 
+### Japanese Children Nutrient and Food Group Intake 
 
 * **jp_Nutrient**: Nutrient intake breakdown of the population in Japan based on gender and different age groups.  
 ``jp_Nutrient_total_2017.xlsx``,``jp_Nutrient_total_2016.xlsx``,``jp_Nutrient_total_2015.xlsx``,``jp_Nutrient_total_2014.xlsx``,``jp_Nutrient_total_2013.xlsx``,``jp_Nutrient_total_2012.xlsx``,``jp_Nutrient_total_2011.xlsx``,``jp_Nutrient_total_2010.xlsx``
@@ -55,4 +57,5 @@ The key to this visualisation project is to enable users to directly catch the d
 
   ``jp_FoodG_female_2017.xlsx``,``jp_FoodG_female_2016.xlsx``,``jp_FoodG_female_2015.xlsx``,``jp_FoodG_female_2014.xlsx``,``jp_FoodG_female_2013.xlsx``,``jp_FoodG_female_2012.xlsx``,``jp_FoodG_female_2011.xlsx``,``jp_FoodG_female_2010.xlsx``
 
-Data retrieved after cleansing is located in respective folders along with the Jupyter Notebook for parsing. 
+### Korean Children Nutrient and Food Group Intake 
+The dataset is directly scraped from the KHIDI website from South Korea
